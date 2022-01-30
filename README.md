@@ -1,9 +1,8 @@
-### Hi, I'm Kat 💁‍♀️:
-
+### Hi, I'm Kat 💁‍♀️
 I’m a full-stack developer 💻 and lifelong learner 📚 in Round Lake Beach, IL 🌊
 
 
-## Currently... :sparkles:
+## Currently :sparkles:
 - ![Code Platoon logo](https://user-images.githubusercontent.com/73550714/151720238-192ed3fb-b79f-4127-b8eb-fd46b553746d.png) Learning at [Code Platoon](https://www.codeplatoon.org/)
 - 🏀 Rooting for the Chicago Bulls and Chicago Sky
 - 🐈‍⬛ An amateur pet photographer
