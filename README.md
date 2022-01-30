@@ -10,7 +10,7 @@ I’m a full-stack developer 💻 and lifelong learner 📚 in Round Lake Beac
 ### Let's connect 📬
 ![Portfolio](https://user-images.githubusercontent.com/73550714/151722442-de94d123-63f5-4739-9f20-e05232acf133.png) [katarzyna-kw](https://katarzyna-kw.github.io/portfolio-website/)<br/>
 <img src="https://user-images.githubusercontent.com/73550714/151721402-54a47fe1-c93a-480b-926c-47bf0590f1a3.png" alt="LinkedIn" width="25" height="25"> [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)</br>
-<img src="https://user-images.githubusercontent.com/73550714/151722381-9b23fbe0-550c-485b-9ab8-2fc67ffe17b0.png" alt="Gmail" width="25" height="25"> [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)</br>
+📧 [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)</br>
 
 
 
