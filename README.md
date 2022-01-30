@@ -1,4 +1,5 @@
-## Hi, I'm Kat 💁‍♀️
+## 💁‍♀️ Hi, I'm Kat <a href="https://katarzyna-kw.github.io/portfolio-website/" target="_blank"><img src="https://user-images.githubusercontent.com/73550714/151722927-2405e6a6-0555-45c9-950f-29927c35f00e.png" alt="Portfolio" width="35" height="35"></a> <a href="https://www.linkedin.com/in/katarzyna-kw/" target="_blank"><img src="https://user-images.githubusercontent.com/73550714/151721402-54a47fe1-c93a-480b-926c-47bf0590f1a3.png" alt="LinkedIn" width="35" height="35"></a> <a href="mailto:katarzyna.koch@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="_blank"><img src="https://user-images.githubusercontent.com/73550714/151722952-65bfd28e-55f5-4478-bc29-d9c061ed6c8f.png" alt="LinkedIn" width="35" height="35"></a>
+
 I’m a full-stack developer 💻 and lifelong learner 📚 in Round Lake Beach, IL 🌊
 
 
