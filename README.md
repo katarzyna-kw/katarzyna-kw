@@ -8,11 +8,11 @@ I’m a full-stack developer 💻 and lifelong learner 📚 in Round Lake Beac
 🐈‍⬛ An amateur pet photographer
 
 ### Let's connect 📬
-- ![Portfolio](https://user-images.githubusercontent.com/73550714/151720601-6ab6c5d0-bd10-4bab-af21-1824576fd7a8.png) [katarzyna-kw](https://katarzyna-kw.github.io/portfolio-website/)
-- <img src="https://user-images.githubusercontent.com/73550714/151721094-cc0d93ec-53be-463c-b3b6-9978828790ab.png" width="20" height="20"> [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)
+![Portfolio](https://user-images.githubusercontent.com/73550714/151720601-6ab6c5d0-bd10-4bab-af21.png) [katarzyna-kw](https://katarzyna-kw.github.io/portfolio-website/)<br/>
+<img src="https://user-images.githubusercontent.com/73550714/151721402-54a47fe1-c93a-480b-926c-47bf0590f1a3.png" alt="LinkedIn" width="20" height="20"> [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)</br>
+<img src="https://user-images.githubusercontent.com/73550714/151722381-9b23fbe0-550c-485b-9ab8-2fc67ffe17b0.png" alt="Gmail" width="20" height="20"> [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)</br>
 
-<!-- - ![linkedin](https://user-images.githubusercontent.com/73550714/151721094-cc0d93ec-53be-463c-b3b6-9978828790ab.png=100x100) [@katarzyna-kw](https://www.linkedin.com/in/katarzyna-kw/)
- -->
+
 <!-- [katarzyna.koch](mailto:katarzyna.koch@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
  -->
 <!--
