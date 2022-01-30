@@ -2,15 +2,19 @@
 I’m a full-stack developer 💻 and lifelong learner 📚 in Round Lake Beach, IL 🌊
 
 
+
 ### Currently :sparkles:
 ![Code Platoon logo](https://user-images.githubusercontent.com/73550714/151720238-192ed3fb-b79f-4127-b8eb-fd46b553746d.png)  Learning at [Code Platoon](https://www.codeplatoon.org/)<br/>
 🏀 Rooting for the Chicago Bulls and Chicago Sky<br/>
 🐈‍⬛ An amateur pet photographer
 
+
+
+
 ### Let's connect 📬
-<img src="https://user-images.githubusercontent.com/73550714/151722442-de94d123-63f5-4739-9f20-e05232acf133.png" alt="Portfolio" width="25" height="25"> [Portfolio](https://katarzyna-kw.github.io/portfolio-website/)<br/>
-<img src="https://user-images.githubusercontent.com/73550714/151721402-54a47fe1-c93a-480b-926c-47bf0590f1a3.png" alt="LinkedIn" width="25" height="25"> [LinkedIn](https://www.linkedin.com/in/katarzyna-kw/)</br>
-📧 [Gmail](https://www.linkedin.com/in/katarzyna-kw/)</br>
+- [Portfolio](https://katarzyna-kw.github.io/portfolio-website/) <img src="https://user-images.githubusercontent.com/73550714/151722442-de94d123-63f5-4739-9f20-e05232acf133.png" alt="Portfolio" width="25" height="25"><br/>
+- [LinkedIn](https://www.linkedin.com/in/katarzyna-kw/) <img src="https://user-images.githubusercontent.com/73550714/151721402-54a47fe1-c93a-480b-926c-47bf0590f1a3.png" alt="LinkedIn" width="25" height="25"> </br>
+- [Gmail](https://www.linkedin.com/in/katarzyna-kw/) 📧 </br>
 
 
 
